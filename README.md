@@ -4,7 +4,7 @@
 
 暂不支持动态分配的对象数组，只支持单个对象。
 
-未来还会实现`shared_ptr`和`weak_ptr`
+未来还会实现`shared_ptr`和`weak_ptr`。
 
 ## 项目测试
 
